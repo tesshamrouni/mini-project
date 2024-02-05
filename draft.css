@@ -1,0 +1,219 @@
+body{
+    background-color: #262216;
+    margin-left: 80px;
+}
+
+h1{
+    color: #fede0e;
+    margin-left: 1050px;
+    margin-top: 20px;
+    font-size: 90px;
+    
+}
+
+.two{
+    color: #fede0e;
+    font-size: 200px;
+    width: 500px;
+    margin-top: -40px;
+    position: absolute;
+    margin-left: 280px;
+}
+
+
+.three{
+    color: #fede0e;
+    font-size: 180px;
+    width: 500px;
+    margin-top: 150px;
+    position: absolute;
+    margin-left: 280px;
+}
+
+header{
+    margin-top: 20px;
+}
+
+#tit{
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    margin-left: 15px;
+}
+
+#link1{
+    color: white;
+    text-decoration: none;
+    font-family: 'Rockabye', sans-serif;
+    font-size: 18px;
+    margin-left: 1050px;
+    margin-top: -40px;
+    position: absolute;
+}
+
+
+#link2{
+    color: white;
+    text-decoration: none;
+    font-family: 'Rockabye', sans-serif;
+
+    font-size: 18px;
+    margin-left: 1150px;
+    margin-top: -40px;
+    position: absolute;
+}
+
+
+#link3{
+    color: white;
+    text-decoration: none;
+    font-family: 'Rockabye', sans-serif;
+
+    font-size: 18px;
+    margin-left: 1350px;
+    margin-top: -40px;
+    position: absolute;
+}
+
+img{
+    
+    margin-top: 420px;
+    margin-left: 100px;
+    
+}
+
+
+.img1{
+    
+    margin-top: -50px;
+    position: relative;
+    margin-left: 450px;
+    
+}
+
+
+
+.img2{
+    
+    margin-top: 420px;
+    position: absolute;
+    margin-left: 850px;
+    
+}
+
+#cont{
+    color: wheat;
+    margin-left: 150px;
+   font-size: 18px;
+   font-family: 'Josefin Sans', sans-serif;
+   font-family: 'Lugrasimo', cursive;
+    line-height: 35px;
+    margin-top:-480px;
+    position: absolute;
+    width: 900px;
+    text-align: start;
+   
+
+}
+
+.cont1{
+    color: wheat;
+    font-size: 18px;
+    line-height: 35px;
+    margin-top: 100px;
+    margin-left: 120px;
+    position: absolute;
+    text-align: start;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Lugrasimo', cursive;
+}
+
+#cont:hover{
+    color: black;
+}
+
+.ab{
+    color: #ba221e;
+    margin-left: 150px;
+    margin-top: -620px;
+    position: absolute;
+
+    
+}
+
+.our{
+    color: #ba221e;
+    margin-left: 150px;
+    margin-top: -50px;
+    position: absolute;
+}
+
+
+
+   
+
+   h6{
+    margin-top: 65px;
+    margin-left: 450px;
+   }
+
+.pla{
+    font-family: 'Rockabye', sans-serif;
+                                                
+}
+   .logo{
+    height: 120px;
+    width: 120px;
+    margin-top: -50px;
+    margin-left: -80px;
+    position: absolute;
+   }
+
+
+   aside{
+    margin-left: 1200px;
+    margin-top: -180px;
+    border: none;
+    height: 800px;
+    width: 500px;
+   }
+
+
+   .nw{
+    font-size: 35px;
+    text-align: center;
+    color: #f5df15;
+
+   }
+
+
+   .grafi{
+    color: white;
+    font-size: 23px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Lugrasimo', cursive;
+                                                
+
+   }
+
+   .gif{
+    height: 400px;
+    width: 400px;
+    margin-top: 20px;
+    margin-left: 20px;
+   }
+
+
+   #na{
+    color: white;
+    font-size: 30px;
+
+
+   }
+
+
+   footer{
+    margin-top: 400px;
+    font-size: 20px;
+    position: absolute;
+   }
